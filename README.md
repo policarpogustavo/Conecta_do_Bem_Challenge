@@ -97,3 +97,12 @@ Prints de todas as páginas em desktop (1366px) e celular (390px). Os arquivos f
 ## Repositório
 [github.com/policarpogustavo/Conecta_do_Bem_Challenge](https://github.com/policarpogustavo/Conecta_do_Bem_Challenge)
 
+## Status da Sprint 2
+
+Funcionalidades concluídas:
+
+- Menu responsivo
+- Validação de formulários
+- Jornada de doação interativa
+- FAQ em acordeão
+- Adaptação para celular, tablet e desktop
