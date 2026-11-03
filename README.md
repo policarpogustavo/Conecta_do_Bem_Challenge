@@ -17,6 +17,8 @@ Sem frameworks CSS, sem bibliotecas externas e sem JavaScript, conforme as regra
 Conecta_do_Bem_Challenge/
 ├── css/
 │   └── style.css               (estilo único de todas as páginas)
+├── js/
+│   └── script.js               (menu, validação de formulários, doação e FAQ)
 ├── img/
 │   ├── logo.svg, avatar.svg, icone-*.svg   (logo e ícones)
 │   ├── hero-conecta.png        (banner da página inicial)
@@ -37,7 +39,9 @@ Conecta_do_Bem_Challenge/
 ```
 
 ## Como visualizar
-Abra o `index.html` no navegador. O layout foi desenvolvido para desktop, com ajustes em 992px (laptops e desktops) e 1300px (telas grandes), e também se adapta a tablets (768px) e celulares.
+Não é necessário instalar nada. Baixe ou clone o repositório e abra o arquivo `index.html` no navegador (duplo clique ou botão direito > Abrir com). As demais páginas ficam na pasta `pages/` e são acessadas pelo menu do site.
+
+O layout foi desenvolvido para desktop, com ajustes em 992px (laptops e desktops) e 1300px (telas grandes), e também se adapta a tablets (768px) e celulares.
 
 Site publicado: https://policarpogustavo.github.io/Conecta_do_Bem_Challenge/
 
